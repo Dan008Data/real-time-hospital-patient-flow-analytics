@@ -548,11 +548,7 @@ Data Engineering | Azure | Databricks | PySpark | Data Lakehouse
 
 GitHub: [Dan008Data](https://github.com/Dan008Data)
 
-LinkedIn: [Connect with me](https://www.linkedin.com/)
-
-### Project Repository
-
-[Real-Time Hospital Patient Flow & Bed Occupancy Analytics](https://github.com/Dan008Data/real-time-hospital-patient-flow-analytics)
+LinkedIn:[ [Connect with me](https://www.linkedin.com/)](https://www.linkedin.com/in/daniel-mate-a260a54b/)
 
 ---
 
