@@ -92,7 +92,8 @@ The architecture follows an end-to-end data engineering workflow:
 
 ### Architecture Diagram
 
-<img width="1919" height="820" alt="Data Architecture Flow" src="https://github.com/user-attachments/assets/62a1b02c-0b9a-4ce4-9145-e26e37708d34" />
+<img width="1918" height="820" alt="Azure Data Platform Architecture Flow" src="https://github.com/user-attachments/assets/e0e92200-1126-4f81-aecb-1b0a35cc3b41" />
+
 
 
 *End-to-end architecture showing streaming ingestion, Medallion data processing, Unity Catalog governance, Databricks SQL and Power BI.*
